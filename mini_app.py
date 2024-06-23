@@ -9,4 +9,5 @@ with row0_1:
     st.title('MLOps Mini App')
 with st.sidebar:    
     st.header("Feature engineering")
-    st.slider('Select a value', min_value=0, max_value=100)
+    st.slider('crim', min_value=0, max_value=90)
+    
